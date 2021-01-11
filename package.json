@@ -1,0 +1,15 @@
+{
+  "name": "telegrambunker",
+  "version": "1.0.0",
+  "description": "Bunker Telegrar\u001b[1;5D\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[DTelegram Bunker Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dihtiarenko Vladislav",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "telegraf": "^4.0.0"
+  }
+}
