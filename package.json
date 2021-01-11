@@ -4,7 +4,10 @@
   "description": "Bunker Telegrar\u001b[1;5D\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[DTelegram Bunker Game",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.18.0"
   },
   "author": "Dihtiarenko Vladislav",
   "license": "ISC",
